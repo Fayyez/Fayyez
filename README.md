@@ -5,7 +5,6 @@
    - node.js
    - SDLC
    - to overcome procrastination
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
    -  email: fayyez2056@gmail.com
    -  linkedIn: https://www.linkedin.com/in/fayyez-farrukh-853699249/

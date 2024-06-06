@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Fayyez
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning :
-   - JavaScript
-   - node.js
-   - SDLC
+   - python
+   - AI and ML
+   - software development
    - to overcome procrastination
 - 📫 How to reach me:
    -  email: fayyez2056@gmail.com

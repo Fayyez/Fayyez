@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fayyez
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning :
-   - python
+- 🌱 I’m currently into :
    - AI and ML
+   - Web dev
    - software development
    - to overcome procrastination
 - 📫 How to reach me:
